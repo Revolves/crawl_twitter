@@ -1,2 +1,4 @@
-# crawl_twitter
-personal test
+data文件夹为收集的数据
+表格文件为目标用户列表
+keys为twitterAPI密钥
+twitter_userINFO.json为目标用户账号信息
